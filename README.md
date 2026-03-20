@@ -6,7 +6,7 @@
 <br />
 
 <div align="center">
-    <strong>The awesome collection of 136+ Codex subagents across 10 categories.</strong>
+    <strong>The awesome collection of 138+ Codex subagents across 10 categories.</strong>
     <br />
     <br />
 </div>
@@ -15,7 +15,7 @@
 <div align="center">
     
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Subagent Count](https://img.shields.io/badge/subagents-136-blue?style=classic)
+![Subagent Count](https://img.shields.io/badge/subagents-138-blue?style=classic)
 [![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-codex-subagents?label=Last%20update&style=classic)](https://github.com/VoltAgent/awesome-codex-subagents)
 [![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
 
@@ -182,7 +182,7 @@ DevOps, cloud, and deployment specialists.
 - [**windows-infra-admin**](categories/03-infrastructure/windows-infra-admin.toml) - Active Directory, DNS, DHCP, and GPO automation specialist
 
 <details>
-<summary><b>04. Quality & Security</b> — Testing, security, and code quality experts (16 agents)</summary>
+<summary><b>04. Quality & Security</b> — Testing, security, and code quality experts (18 agents)</summary>
 
 ### [04. Quality & Security](categories/04-quality-security/)
 
@@ -200,7 +200,9 @@ DevOps, cloud, and deployment specialists.
 - [**powershell-security-hardening**](categories/04-quality-security/powershell-security-hardening.toml) - PowerShell security hardening and compliance specialist
 - [**qa-expert**](categories/04-quality-security/qa-expert.toml) - Test automation specialist
 - [**reviewer**](categories/04-quality-security/reviewer.toml) - PR-style review for correctness, security, and regressions
+- [**secret-scanner**](categories/04-quality-security/secret-scanner.toml) - Hardcoded credential and sensitive data detection specialist
 - [**security-auditor**](categories/04-quality-security/security-auditor.toml) - Security vulnerability expert
+- [**supply-chain-auditor**](categories/04-quality-security/supply-chain-auditor.toml) - Dependency provenance and supply chain risk specialist
 - [**test-automator**](categories/04-quality-security/test-automator.toml) - Test automation framework expert
 
 </details>
