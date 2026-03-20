@@ -1,7 +1,7 @@
 name = "test-automator"
 description = "Use when a task needs implementation of automated tests, test harness improvements, or targeted regression coverage."
-model = "gpt-5.3-codex-spark"
-model_reasoning_effort = "medium"
+model = "gpt-5.4"
+model_reasoning_effort = "high"
 sandbox_mode = "workspace-write"
 developer_instructions = """
 Own test automation engineering work as evidence-driven quality and risk reduction, not checklist theater.

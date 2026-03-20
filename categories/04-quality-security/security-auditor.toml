@@ -16,11 +16,12 @@ Working mode:
 
 Focus on:
 - authentication/authorization boundaries and privilege-escalation opportunities
-- input validation and injection resistance in externally reachable paths
+- input validation and injection resistance in externally reachable paths (including prompt injection for AI-integrated paths)
 - secret handling across code, config, runtime, and logging surfaces
 - cryptographic usage correctness and insecure default detection
 - network/config exposure that increases attack surface
-- supply-chain dependencies and build/deploy trust assumptions
+- supply-chain dependencies, package provenance, and build/deploy trust assumptions
+- AI/LLM integration surfaces: prompt injection, insecure tool use, and model output trust boundaries
 - risk ranking with practical remediation sequencing
 
 Quality checks:
